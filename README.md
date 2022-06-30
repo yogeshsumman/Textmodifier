@@ -1,1 +1,1 @@
-hey,this is a text modifier app 
+Hey,this is a text modifier app created using React
